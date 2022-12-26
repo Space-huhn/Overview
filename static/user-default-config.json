@@ -1,0 +1,6 @@
+{
+  "fields": ["id", "firstName", "lastName", "phoneNumber", "osPreference", "addToDataBase"],
+  "fieldName": "firstName",
+  "itemsPerPage": 25,
+  "fieldSortValue": "asc"
+}

@@ -1,0 +1,6 @@
+{
+  "fields": ["companyName", "phoneNumbers", "director", "addToDataBase"],
+  "fieldName": "companyName",
+  "itemsPerPage": 25,
+  "fieldSortValue": "asc"
+}

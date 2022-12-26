@@ -1,0 +1,6 @@
+{
+  "fields": ["project", "projectManager", "projectWebsite", "addToDataBase"],
+  "fieldName": "project",
+  "itemsPerPage": 10,
+  "fieldSortValue": "desc"
+}

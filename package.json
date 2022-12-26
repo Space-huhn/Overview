@@ -1,0 +1,18 @@
+{
+  "name": "overview",
+  "version": "1.0.0",
+  "main": "node_modules/json-server/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "json-server db.json --watch --port 5000"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "litepicker": "^2.0.12"
+  },
+  "devDependencies": {},
+  "description": ""
+}
